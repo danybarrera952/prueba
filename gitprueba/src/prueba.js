@@ -4,6 +4,7 @@ const prueba = () => {
 	return (
 		<div>
 			<h1>Hola</h1>
+			<p>Ok</p>
 		</div>
 	)
 }
