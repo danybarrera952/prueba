@@ -5,6 +5,7 @@ const prueba = () => {
 		<div>
 			<h1>Hola</h1>
 			<p>Ok</p>
+			<p>jejej</p>
 		</div>
 	)
 }
